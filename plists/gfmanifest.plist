@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://114.135.115.112:9090/HX_App/ios/HXContract.ipa</string>
+					<string>http://114.135.115.112:9090/GF_App/ios/GF_gbe.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://114.135.115.112:9090/HX_App/ios/images/min.png</string>
+					<string>http://114.135.115.112:9090/GF_App/ios/images/min.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://114.135.115.112:9090/HX_App/ios/images/max.png</string>
+					<string>http://114.135.115.112:9090/GF_App/ios/images/max.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.HXContract.TELECOM.GZ.25494463</string>
+				<string>com.bonc.DistrictGF.TELECOM.GZ.25494463</string>
 				<key>bundle-version</key>
-				<string>2019042801</string>
+				<string>2019072801</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>划小承包</string>
+				<string>营销沙盘</string>
 			</dict>
 		</dict>
 	</array>
